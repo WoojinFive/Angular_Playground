@@ -1,0 +1,12 @@
+.mat-card {
+  width: 50%;
+  margin: auto;
+}
+
+.example-full-width {
+  width: 100%;
+}
+
+.error {
+  background-color: #fff0f0;
+}
